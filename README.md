@@ -1,6 +1,6 @@
 # Telega - Универсальный подбор возможных работ
 
-![Telegram](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram) ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python) ![AI](https://img.shields.io/badge/AI-Neural%20Network-purple)
+![Telegram](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram) ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python) ![AI](https://img.shields.io/badge/AI-Neural%20Network-purple)
 
 ---
 
